@@ -284,7 +284,7 @@ footer{
   }
   .feature-btn{
     margin-top: -50px;
-    margin-left: 20px;
+    margin-left: 15px;
   }
 
   .footer-title{
@@ -303,7 +303,7 @@ footer{
   }
 
   .team-img {
-    gap: 16px;
+    gap: 24px;
   }
   .team-img img{
     width: 100%;
